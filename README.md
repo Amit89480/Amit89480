@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **React, HTML, CSS, JAVA, C++, DSA**
+- 💬 Ask me about **React, Spring Boot,MongoDB ,Docker, AWS, React Native , Mobile Development, Machine Learning**
 
 - 📫 How to reach me **pamit7407084@gmail.com**
 
